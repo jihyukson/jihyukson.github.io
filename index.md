@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 지혁이의 블로그
 
-You can use the [editor on GitHub](https://github.com/jihyukson/jihyukson.github.io) to maintain and preview the content for your website in Markdown files.
+[GitHub 바로가기](https://github.com/jihyukson/jihyukson.github.io)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
